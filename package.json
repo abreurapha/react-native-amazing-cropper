@@ -17,6 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@react-native-community/image-editor": "^2.1.0",
     "prop-types": "^15.6.2"
   },
   "peerDependencies": {
